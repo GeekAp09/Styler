@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import SearchComponent from "./Seach";
-import Footer from "./footer";
+import Footer from "./Footer";
 import FontResult from "./FontList";
 
 function App() {
